@@ -1,0 +1,24 @@
+# Java Compiled Class Files & Build
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+build/
+.mtj.tmp/
+hs_err_pid*
+replay_pid*
+
+# IDE & OS
+.vscode/
+.idea/
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+
+# Local JavaFX SDK
+javafx-sdk-*/
